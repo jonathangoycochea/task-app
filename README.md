@@ -3,8 +3,7 @@ My first Java project using Spring Boot implementing a REST API.
 
 It is a Task Management APP that works with CRUD operations. 
 
-My goal was to implement good programming practices from the beginning, either by having an organized project structure, implementing tests, or keeping the code as clean as possible, in order to continue developing and honing my skills for future projects following good standards.
-
+My goal was to implement good programming practices from the beginning, that is, having an organized project structure, implementing tests or keeping the code as clean as possible, to continue developing and honing my skills for future projects following good standards.
 
 # Built with:
 
