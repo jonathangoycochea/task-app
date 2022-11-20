@@ -6,7 +6,7 @@ It is a Task Management APP that works with CRUD operations.
 My goal was to implement good programming practices from the beginning, either by having an organized project structure, implementing tests, or keeping the code as clean as possible, in order to continue developing and honing my skills for future projects following good standards.
 
 
-## Built with:
+# Built with:
 
 * Java 17
 
@@ -23,7 +23,7 @@ My goal was to implement good programming practices from the beginning, either b
 * JUnit 5 + Mockito for testing
 
 
-## REST API Methods
+# REST API Methods
 
 | Method | URL | Description |
 |--------|-----|-------------|
@@ -37,4 +37,21 @@ My goal was to implement good programming practices from the beginning, either b
 |DELETE  |/tasks/{id}|Delete task|
 
 
+# Setup
 
+## Execution
+To run the application you can do it in one of the following ways: 
+* Import the project into an IDE and run the TaskappApplication class
+* Execute the .jar file "taskapp-0.0.1-SNAPSHOT" located inside the /taskapp/target folder
+
+## Usage
+
+* Swagger UI to test the endpoints http://localhost:8080/swagger-ui/
+* H2 Console to access the Database http://localhost:8080/h2-console/
+
+## H2 Console Credentials
+
+* Driver Class: org.h2.Driver
+* JDBC URL: jdbc:h2:mem:taskapp 
+* User Name: user
+* Password: password
