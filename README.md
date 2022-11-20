@@ -23,4 +23,18 @@ My goal was to implement good programming practices from the beginning, either b
 * JUnit 5 + Mockito for testing
 
 
+## REST API Methods
+
+| Method | URL | Description |
+|--------|-----|-------------|
+|GET     |/tasks|Get all tasks|
+|GET     |/tasks/{id}|Get task|
+|GET     |/tasks/status/{status}|Get all tasks by status|
+|POST    |/tasks|Create task|
+|PATCH   |/tasks/update-as-completed/{id}/|Update task as completed|
+|PATCH   |/tasks/update/{id}/status-as/{status}/|Update task status|
+|DELETE  |/tasks/|Delete all tasks|
+|DELETE  |/tasks/{id}|Delete task|
+
+
 
