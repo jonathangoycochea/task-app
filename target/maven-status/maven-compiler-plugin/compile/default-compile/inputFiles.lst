@@ -1,0 +1,14 @@
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/dto/TaskInDTO.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/exceptions/ErrorResponse.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/persistence/entity/Task.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/service/TaskService.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/config/SwaggerConfig.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/persistence/entity/TaskStatus.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/mapper/TaskInDTOToTask.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/exceptions/RestExceptionHandler.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/exceptions/NoSuchElementException.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/service/impl/TaskServiceImpl.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/mapper/IMapper.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/TaskappApplication.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/controller/TaskController.java
+/Users/jonathan/Documents/taskapp/src/main/java/com/jonathangoycochea/taskapp/persistence/repository/TaskRepository.java
